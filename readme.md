@@ -8,7 +8,7 @@ Con una sitio amigable y una navegación muy simple, transformamos la manera de 
 ### Quienes Somos
 Somos 4 personas con deseo de aprender los skills necesarios para poder desarrollar Sitios Web. 
 
-- Laura León - 
+- Laura León - laura22julieth22@gmail.com
 - Romina Antueno - roantueno30@gmail.com 
 - Johan Rodriguez - 
 - Ernesto Caballero - elmono007@gmail.com
