@@ -14,7 +14,7 @@ Somos 4 personas con deseo de aprender los skills necesarios para poder desarrol
 - Ernesto Caballero - elmono007@gmail.com
 
 <u><h5>Sitios de Referencia:</h5></u>
-<h6>Negro - https://www.negrotm.com/
+<h6>Negro - https://www.negrotm.com/ 
 - Por estética
 - Por funcionalidad implementada
 
