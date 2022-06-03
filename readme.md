@@ -3,7 +3,7 @@
 ### Sobre el sitio:
 Giftbox es un e-commerce que brinda la posibilidad a toda persona que precise o quiera realizar regalos, ya sea armados o personalizados dentro de una variada gama de productos al alcance de la mano.
 
-Con una sitio amigable y una navegación muy simple, transformamos la manera de armar regalos. La única dificultad que puedes encontrar al navegar el sitio es poder decidir entre tantos productos y maneras posibles de combinarlos.
+Con un sitio amigable y una navegación muy simple, transformamos la manera de armar regalos. La única dificultad que puedes encontrar al navegar el sitio es poder decidir entre tantos productos y maneras posibles de combinarlos.
 
 ### Quienes Somos
 Somos 4 personas con deseo de aprender los skills necesarios para poder desarrollar Sitios Web. 
