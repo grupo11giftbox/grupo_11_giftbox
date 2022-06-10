@@ -10,7 +10,7 @@ Somos 4 personas con deseo de aprender los skills necesarios para poder desarrol
 
 - Laura León - laura22julieth22@gmail.com
 - Romina Antueno - roantueno30@gmail.com 
-- Johan Rodriguez - 
+- Johan Rodriguez - johan2113@hotmail.com
 - Ernesto Caballero - elmono007@gmail.com
 
 <u><h5>Sitios de Referencia:</h5></u>
