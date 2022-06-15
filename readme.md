@@ -13,6 +13,9 @@ Somos 4 personas con deseo de aprender los skills necesarios para poder desarrol
 - Johan Rodriguez - johan2113@hotmail.com
 - Ernesto Caballero - elmono007@gmail.com
 
+<u><h5>Tablero de Trabajo:</h5></u>
+URL: https://trello.com/b/MAhAnQze/sprints 
+
 <u><h5>Sitios de Referencia:</h5></u>
 <h6>Negro - https://www.negrotm.com/ 
 - Por estética
