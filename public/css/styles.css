@@ -1,0 +1,225 @@
+* { box-sizing: border-box;
+}
+
+body {
+    background-color: #d1c1af;
+}
+
+.line-hr{
+    border: solid white 1px;
+}
+
+.banner1 {
+    background-color: white;
+    border: black 1px solid;
+    margin: auto;
+    width: 70vw;
+    height: auto;
+    text-align: center;
+    padding: 5px;
+    font-family: 'AileronUltralight';
+}
+
+.banner2 {
+    background-color: transparent;
+    margin: auto;
+    width: 70vw;
+    height: auto;
+    text-align: center;
+    padding: 5px;
+    font-family: 'AileronUltralight';
+    font-size: 150px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.banner3 {
+    background-color: white;
+    border: black 1px solid;
+    margin: auto;
+    width: 70vw;
+    height: auto;
+    text-align: center;
+    padding: 5px;
+    font-family: 'AileronUltralight';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.banner4 {
+    background-color: #e1d8d3;
+    border: black 1px solid;
+    margin: auto;
+    width: 70vw;
+    height: 120px;
+    text-align: center;
+    padding: 50px;
+    font-family: 'AileronUltralight';
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.button {
+    background-color: white;
+    text-align: center;
+    border: black 0,5px;
+}
+
+.nav {
+    margin: auto;
+}
+
+.containerPortada {
+    display: flex;
+    margin: auto;
+    border: black 1px solid;
+    background-color: white;
+    width: 70vw;
+    height: 50vh;
+    
+}
+.containerPortada img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.divButtons {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
+
+.divButtons .nav_bar {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly; 
+    text-align: center;
+}
+
+.nav_bar a {
+    color: white;
+    text-decoration: none;
+    font-family: 'AileronRegular';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.divButtons .search-container{
+    display: flex;
+    text-align: right;
+}
+
+.row {
+    text-align: justify;
+    display: flex;    
+    height: 230px;
+    width: 70vw;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: transparent;
+}
+
+.row .img-container img {
+    width: 18vw;
+    height: 230px;
+    padding: 5px 5px;
+    border: black 1px solid;
+    margin: 5px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+    background-color: #e1d8d3;
+    justify-content: space-between;
+}
+
+.container_caja_personalizada{
+    display: flex;
+    justify-content: space-between;
+    width: 70vw;
+    border: 1px solid black;
+    height: 40vh;
+    background-color: transparent;
+    margin: auto;
+    
+}
+
+.caja_personalizada {
+    width: 50%;
+    height: auto;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.container_caja_personalizada img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.descricpion_caja_personalizada {
+    background-color: #e1d8d3;
+    width: 50%;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+.suscripcion {
+    background-image:  url("../images/pexels.jpeg");
+    border: solid black 1px;
+    height: 120px;
+    width: 70vw;
+    flex-direction: column;
+    margin: auto;
+    padding: 20px;
+    justify-content: center;
+
+}
+
+
+.suscripcion .suscripcion_banner {
+    align-items: center;
+    margin: auto;
+    width: 30vw;
+}
+
+.suscripcion .suscripcion_banner p {
+    font-family: 'AileronUltralight';
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    width: 30vw;
+    height: 30px;
+    border: solid black 1px;
+    text-align: center;
+    }
+    
+.suscripcion .suscripciones_correo {
+    font-family: 'AileronUltralight';
+    font-weight: bold;
+    color: black;
+    background-color: transparent;
+    margin: auto;
+    text-align: center;
+}
+
+.copyright {
+    margin: auto;
+    font-weight: bold;
+    font-family: 'AileronUltralight';
+    border: solid black 1px;
+    height: 100px;
+    width: 70vw;
+    background-color: #e1d8d3;
+    text-align: center;
+}
+
+.copyright p {
+    text-align: center;
+    padding-top: 30px;
+}
+
