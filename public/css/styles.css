@@ -1,8 +1,14 @@
 * { box-sizing: border-box;
 }
 
+/*body {
+    background-color: #d1c1af;
+}*/
+
+
 body {
     background-color: #d1c1af;
+    margin: 20px;
 }
 
 .line-hr{
@@ -222,4 +228,99 @@ body {
     text-align: center;
     padding-top: 30px;
 }
+
+/*--------------------------------------------*/
+
+
+.aviso {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'AileronUltralight';
+}
+
+.logo h1 {
+    display: flex;
+    display: block;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.botones {
+    text-align: center;
+}
+
+.ingreso {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.tituloCarrito {
+    text-align: center;
+    
+}
+
+.producto h4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 2px solid black;
+    padding: 3px;
+    width: max-content;
+    background-color: #ffffff;
+    
+
+}
+
+.subtotal h4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 2px solid black;
+    padding: 3px;
+    width: max-content;
+    height: max-content;
+    float: right;
+    background-color: #ffffff;
+    
+}
+
+
+.imagen_producto img{
+    width: 20%;
+    height: 20%;
+}
+
+.detalles_compra h4 {
+    
+    border: 2px solid black;
+    padding: 3px;
+    width: max-content;
+    height: max-content;
+    float: right;
+    margin: 10px;
+    background-color: #ffffff;
+
+}
+
+.pie h4 {
+    border: 2px solid black;
+    padding: 3px;
+    width: max-content;
+    height: max-content;
+    float: left;
+    margin: 10px;
+    background-color: #ffffff;
+}
+
+.pie2 h4 {
+    display: block;
+    border: 2px solid black;
+    padding: 3px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
 

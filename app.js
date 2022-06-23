@@ -25,6 +25,12 @@ app.get("/login", (_req, res) => {
 
 });
 
+app.get("/carrito", (_req, res) => {
+    let carrito = path.join(__dirname, './views/carrito.html');
+    res.sendFile(carrito);
+
+});
+
 /*app.set('puerto',process.env.PORT || 3000)
 app.listen(app.get('puerto'), ()=>console.log(`Servidor escuchando en puerto ${app.get('puerto')}`));
 */
